@@ -111,7 +111,7 @@ form button {
   width: 100%;
 }
 
-.formDivs {
+.divForm {
   display: flex;
   justify-content: space-between;
 }
